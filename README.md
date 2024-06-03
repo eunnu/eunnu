@@ -16,7 +16,7 @@
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=30&duration=4000&pause=1000&color=6482B9&center=true&vCenter=true&random=false&repeat=false&width=435&height=70&lines=project" /></a>
   </div> 
-  <a href="https://github.com/eunnu"><img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/pin/?username=eunnu&repo=Bobs&theme=default&show_icons=true" /></a>
+  <a href="https://github.com/eunnu/Bobs"><img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/pin/?username=eunnu&repo=Bobs&theme=default&show_icons=true" /></a>
   <a href="https://github.com/eunnu/Soboro"><img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/pin/?username=eunnu&repo=Soboro&theme=default&show_icons=true" /></a></div></br>
   <a href="https://github.com/eunnu/Fri"><img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/pin/?username=eunnu&repo=Fri&theme=default&show_icons=true" /></a>
   <a href="https://github.com/eunnu/capstone"><img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/pin/?username=eunnu&repo=capstone&theme=default&show_icons=true" /></a>
